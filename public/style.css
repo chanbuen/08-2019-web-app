@@ -1,0 +1,15 @@
+.logo-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navigation-container__ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  padding-inline-start: 0px;
+}
+
+.navigation-container__li {
+  text-align: center;
+}
